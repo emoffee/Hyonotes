@@ -4,7 +4,7 @@
   * Have a HIGH LEVEL understanding of Spark, Spark Straming, Presto & Zeppelin
   * Hbase & Hive usages
 
-![Big Data Abstraction](./static/BigDataAbstraction)
+![Big Data Abstraction](./static/BigDataAbstraction.png)
 
 * **Kinesis** Stram & Firehose: Big Data Ingestion & Streaming
   * How to tune the throughput & troubleshoot PRODUCER & CONSUMER theoughput issues
