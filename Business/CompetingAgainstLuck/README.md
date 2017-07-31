@@ -1,3 +1,8 @@
+# Competing Against Luck: The Story of Innovation and Customer Choice
+## Notes & Review in Chinese
+
+![Book Cover](./static/BookCover.jpg)
+
 ## Introduction：Why you should hire this book? 雇佣本书为哪般
 
 > 大数据时代，有些傻逼到处宣称相关性（correlation）才是王道（是不是想起了沃尔玛啤酒和尿不湿的烂故事？）。但相关性到底有多大的用处，我真他妈的怀疑。
