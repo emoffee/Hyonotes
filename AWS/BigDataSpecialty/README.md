@@ -3,12 +3,15 @@
 ### Big Data Abstraction
 
 The following is an abstraction of Big Data Application Process in AWS(in Chinese):
+
 ![Big Data Abstraction](./static/BigDataAbstraction.png)
 
 ### Big Data WorkFlow
 ![Big Data WorkFlow](./static/BigDataWF.png)
 
 ### Big Data Services
+![Big Data Services](/static/BigDataServices.png)
+
 * General Big Data Technology: Concepts of Map Reduce, Data Shuffling, Performance Tuning & Security.
   * HDFS vs EMRFS , when to use it
   * Have a HIGH LEVEL understanding of Spark, Spark Straming, Presto & Zeppelin
