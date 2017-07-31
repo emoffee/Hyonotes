@@ -10,7 +10,7 @@ The following is an abstraction of Big Data Application Process in AWS(in Chines
 ![Big Data WorkFlow](./static/BigDataWF.png)
 
 ### Big Data Services
-![Big Data Services](/static/BigDataServices.png)
+![Big Data Services](./static/BigDataServices.png)
 
 * General Big Data Technology: Concepts of Map Reduce, Data Shuffling, Performance Tuning & Security.
   * HDFS vs EMRFS , when to use it
