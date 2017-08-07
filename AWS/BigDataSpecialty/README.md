@@ -1,15 +1,15 @@
 # Big Data Topics
 
-### Big Data Abstraction
+## Big Data Abstraction
 
 The following is an abstraction of Big Data Application Process in AWS(in Chinese):
 
 ![Big Data Abstraction](./static/BigDataAbstraction.png)
 
-### Big Data WorkFlow
+## Big Data WorkFlow
 ![Big Data WorkFlow](./static/BigDataWF.png)
 
-### Big Data Services
+## Big Data Services
 ![Big Data Services](./static/BigDataServices.png)
 
 * General Big Data Technology: Concepts of Map Reduce, Data Shuffling, Performance Tuning & Security.
@@ -68,3 +68,23 @@ The following is an abstraction of Big Data Application Process in AWS(in Chines
   
 * Data Pipeline
   * Backup & restore of data into other AWS regions.
+
+## Labs
+  * Use Kinesis Firehose and Kinesis Stream to capture and process streaming data
+  * Use Kinesis to analyze a website viewer's data
+  * Apply encryption, versioning, and lifecycle policies on files in S3
+  * Analzye Facebook metrics from a large cosmetics company using Amazon Machine 
+
+
+## Projects
+### AWS Projects
+  * Create Sentiment Analysis(SA) over Chinese Stock market with WeiBo data
+  * Crate a Web Server Log Analysis
+  * Extend the data source for SA and Create a petabyte-scale data warehouse service
+  * Create first real-time big data stream
+  * Deploying Cloudera's Enterprise Data Hub on AWS
+  * Deploying a MongoDB cluster on AWS
+  * Build a data lake on AWS
+
+### My Personal Project
+  * Stream my self-driving car's data for analysis
