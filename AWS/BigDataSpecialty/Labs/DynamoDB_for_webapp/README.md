@@ -12,7 +12,7 @@ This web application allows CRUD operations and display stream data fetched by T
 * Query data programmatically using AWS SDK API
 * deleting tables in the console
 
-# Fetching 3rd party data and feeding it into the database
+## Fetching 3rd party data and feeding it into the database
 * Create Twitter authorization credentials
   * Consumer Key (API Key)
   * Consumer Secret (API Secret)

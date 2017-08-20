@@ -69,12 +69,14 @@ The following is an abstraction of Big Data Application Process in AWS(in Chines
 * Data Pipeline
   * Backup & restore of data into other AWS regions.
 
-## Labs
+## Labs for beginners
+  * [Create an Amazon DynamoDB as a web app database support](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/DynamoDB_for_webapp)
+
+## Labs for intermediate users
   * Use Kinesis Firehose and Kinesis Stream to capture and process streaming data
   * Use Kinesis to analyze a website viewer's data
   * Apply encryption, versioning, and lifecycle policies on files in S3
   * Analzye Facebook metrics from a large cosmetics company using Amazon Machine 
-
 
 ## Projects
 ### AWS Projects
