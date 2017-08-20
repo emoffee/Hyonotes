@@ -70,7 +70,10 @@ The following is an abstraction of Big Data Application Process in AWS(in Chines
   * Backup & restore of data into other AWS regions.
 
 ## Labs for beginners
-  * [Create an Amazon DynamoDB as a web app database support](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/DynamoDB_for_webapp)
+  * [Create an Amazon DynamoDB as a Web App Database Support](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/DynamoDB_for_webapp)
+
+  * [Create a Redshift Cluster for Data Analysis](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/Redshift_for_analysis)
+
 
 ## Labs for intermediate users
   * Use Kinesis Firehose and Kinesis Stream to capture and process streaming data
