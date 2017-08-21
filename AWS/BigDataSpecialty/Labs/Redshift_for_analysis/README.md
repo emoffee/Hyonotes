@@ -1,4 +1,4 @@
-# Redshift to analyze data
+# Use Redshift to analyze data
 
 The main goal of this lab is to create a Redshift cluster, copy data into the instance, and analyze the data by using SQL commands.
 

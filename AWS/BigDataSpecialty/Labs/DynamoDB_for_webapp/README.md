@@ -1,4 +1,4 @@
-# Amazon DynamoDB as a web app database support
+# Use Amazon DynamoDB as a web app database support
 
 
 The main goal of this lab is to create a DynamoDB that supports a web application.

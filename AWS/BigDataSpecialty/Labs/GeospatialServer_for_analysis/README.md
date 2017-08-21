@@ -1,4 +1,4 @@
-# GeoSpatial Server for Analysis
+# Create a GeoSpatial Server for Analysis
 
 * Create a new EC2 server and install GeoServer distribution
 * Install a geospatial dataset into the server by using GeoServer's web UI
