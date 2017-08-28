@@ -77,7 +77,8 @@ The following is an abstraction of Big Data Application Process in AWS(in Chines
   * [Use EMR to analyze NGRAMS data](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/EMR_for_NGRAMS)
 
   * [Create a GeoServer for spatial analysis](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/GeospatialServer_for_analysis)
-
+  
+  * [Create Temperature Alert from an Iot Device](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/Temperature_alert)
 
 ## Labs for intermediate users
   * Use Kinesis Firehose and Kinesis Stream to capture and process streaming data
