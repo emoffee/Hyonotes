@@ -74,6 +74,10 @@ The following is an abstraction of Big Data Application Process in AWS(in Chines
 
   * [Create a Redshift Cluster for Data Analysis](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/Redshift_for_analysis)
 
+  * [Use EMR to analyze NGRAMS data](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/EMR_for_NGRAMS)
+
+  * [Create a GeoServer for spatial analysis](https://github.com/emoffee/Hyonotes/tree/master/AWS/BigDataSpecialty/Labs/GeospatialServer_for_analysis)
+
 
 ## Labs for intermediate users
   * Use Kinesis Firehose and Kinesis Stream to capture and process streaming data
